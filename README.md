@@ -1,4 +1,6 @@
-## # Frontend Mentor - solução de componente de cartão de visualização NFT
+## # Frontend Mentor - solução de componente de cartão de visualização NFT ⌨
+<a href="https://luvalentinaa.github.io/Card-NFT/">Acesse no Github Pages 🔗</a>
+
    
 [
   <img src="src/images/gif-nft.gif">
